@@ -1,0 +1,7 @@
+{
+  "name": "@af/config",
+  "version": "1.0.0",
+  "description": "Package for environment config",
+  "main": "src/index.ts",
+  "license": "MIT"
+}
